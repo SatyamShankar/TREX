@@ -1,0 +1,2 @@
+# TREX
+Infinite runner game
